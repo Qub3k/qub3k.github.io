@@ -21,6 +21,11 @@ When I’m not working on my research, I’m probably climbing, running or hikin
 8. **Nawała, J.**, Pinson, M. H., Leszczuk, M., & Janowski, L. (2020). Study of subjective data integrity for image quality data sets with consumer camera content. *Journal of Imaging*, 6(3). [https://doi.org/10.3390/jimaging6030007](https://doi.org/10.3390/jimaging6030007)
 
 # Education
+**PhD** (with honours) in *Information and Communication Technology*, AGH University of Krakow, Krakow, Poland. 2018–2023.
+
+**MEng** (with honours) in *Electronics and Telecommunications*, AGH University of Krakow, Krakow, Poland. 2017–2018.
+
+**BEng** (with honours) in *Electronics and Telecommunications*, AGH University of Krakow, Krakow, Poland. 2013–2017.
 
 # Skills
 
