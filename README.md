@@ -6,6 +6,8 @@ Hi! 👋 Jakub here. I’m a Research Engineer with more than 10 years of experi
 
 Sounds interesting? Let’s connect on [LinkedIn](https://www.linkedin.com/in/jakub-nawala) or via [email](mailto:﻿jakub.nawala@bristol.ac.uk).
 
+To download my CV [click here](https://qub3k.github.io/CV_Jakub_Nawala_Research_Engineer_Q2_2026.pdf).
+
 When I’m not working on my research, I’m probably climbing, running or hiking :)
 
 [//]: # (todo: Consider adding a table of contents here)
